@@ -1,0 +1,1543 @@
+{
+    "eventGroups": [
+        {
+            "obsession": {
+                "group": 13
+            },
+            "alert": {
+                "type": "Specific",
+                "input": 75,
+                "index": 0,
+                "subIndex": 3,
+                "specific": 1
+            },
+            "prerequisite": {
+                "minPlay": 0,
+                "probability": 1.0,
+                "requireFurby": false,
+                "requireNoFurby": false,
+                "timeFrame": {
+                    "begin": 1511481600,
+                    "end": 1515110400
+                }
+            },
+            "priority": 0,
+            "dlcToyFiles": [
+                {
+                    "language": 0,
+                    "fileName": "TU012750.dlc",
+                    "fileSize": 825154,
+                    "checksum": "0x6525AAA0"
+                },
+                {
+                    "language": 1,
+                    "fileName": "TR012750.dlc",
+                    "fileSize": 831422,
+                    "checksum": "0x1D95875C"
+                }
+            ],
+            "weeklyBundles": [
+                {
+                    "timestamp": 1511481600,
+                    "videoBundles": [
+                        {
+                            "videoId": "UCantTouchThis"
+                        },
+                        {
+                            "videoId": "BulldogCowboy"
+                        },
+                        {
+                            "videoId": "JingleBellRock"
+                        }
+                    ],
+                    "weeklyObsessionGroup": 11,
+                    "furbyAlerts": [
+                        {
+                            "language": 0,
+                            "type": "Specific",
+                            "input": 75,
+                            "index": 0,
+                            "subindex": 2,
+                            "specific": 1
+                        },
+                        {
+                            "language": 1,
+                            "type": "Specific",
+                            "input": 73,
+                            "index": 0,
+                            "subindex": 2,
+                            "specific": 1
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 1512086400,
+                    "videoBundles": [
+                        {
+                            "videoId": "JingleBellRock"
+                        },
+                        {
+                            "videoId": "UCantTouchThis"
+                        },
+                        {
+                            "videoId": "LumberJack"
+                        }
+                    ],
+                    "weeklyObsessionGroup": 12,
+                    "furbyAlerts": [
+                        {
+                            "language": 0,
+                            "type": "Specific",
+                            "input": 75,
+                            "index": 0,
+                            "subindex": 3,
+                            "specific": 1
+                        },
+                        {
+                            "language": 1,
+                            "type": "Specific",
+                            "input": 73,
+                            "index": 0,
+                            "subindex": 3,
+                            "specific": 1
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 1512691200,
+                    "videoBundles": [
+                        {
+                            "videoId": "LumberJack"
+                        },
+                        {
+                            "videoId": "JingleBellRock"
+                        },
+                        {
+                            "videoId": "Down"
+                        }
+                    ],
+                    "weeklyObsessionGroup": 13,
+                    "furbyAlerts": [
+                        {
+                            "language": 0,
+                            "type": "Specific",
+                            "input": 75,
+                            "index": 0,
+                            "subindex": 4,
+                            "specific": 1
+                        },
+                        {
+                            "language": 1,
+                            "type": "Specific",
+                            "input": 73,
+                            "index": 0,
+                            "subindex": 4,
+                            "specific": 1
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 1513296000,
+                    "videoBundles": [],
+                    "weeklyObsessionGroup": 14,
+                    "furbyAlerts": []
+                }
+            ],
+            "videos": [
+                {
+                    "videoData": {
+                        "videoId": "BulldogCowboy",
+                        "previewFile": "bulldogcowboy.png",
+                        "previewFileSize": 139353,
+                        "videoFile": "bulldogcowboy.mp4",
+                        "videoFileSize": 9995201,
+                        "group": 7,
+                        "learntGroup": 8
+                    },
+                    "furbyEvents": [],
+                    "furbyEventsByLanguage": [
+                        {
+                            "language": 0,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.47999998927116396,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 2,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 9.100000381469727,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 14.779999732971192,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 27.81999969482422,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 5,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 6,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        },
+                        {
+                            "language": 1,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.7599999904632568,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 2,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 9.100000381469727,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 15.050000190734864,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 27.770000457763673,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 5,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 5,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        }
+                    ],
+                    "furblingEvents": [
+                        {
+                            "data": "WatchMovieOoh",
+                            "timing": 4.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "CelebrateLoop",
+                            "timing": 22.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "",
+                            "timing": 28.0,
+                            "type": "StopLoop"
+                        }
+                    ]
+                },
+                {
+                    "videoData": {
+                        "videoId": "UCantTouchThis",
+                        "previewFile": "ucanttouchthis.png",
+                        "previewFileSize": 111935,
+                        "videoFile": "ucanttouchthis.mp4",
+                        "videoFileSize": 10706563,
+                        "group": 9,
+                        "learntGroup": 10
+                    },
+                    "furbyEvents": [],
+                    "furbyEventsByLanguage": [
+                        {
+                            "language": 0,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.3499999940395355,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 1,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 14.800000190734864,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 1,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 1,
+                                    "specific": 5,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        },
+                        {
+                            "language": 1,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.3499999940395355,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 1,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 14.800000190734864,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 1,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 1,
+                                    "specific": 5,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        }
+                    ],
+                    "furblingEvents": [
+                        {
+                            "data": "WatchMovieOoh",
+                            "timing": 4.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "CelebrateLoop",
+                            "timing": 22.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "",
+                            "timing": 28.0,
+                            "type": "StopLoop"
+                        }
+                    ]
+                },
+                {
+                    "videoData": {
+                        "videoId": "JingleBellRock",
+                        "previewFile": "jinglebellrock.png",
+                        "previewFileSize": 121066,
+                        "videoFile": "jinglebellrock.mp4",
+                        "videoFileSize": 9344870,
+                        "group": 1,
+                        "learntGroup": 2
+                    },
+                    "furbyEvents": [],
+                    "furbyEventsByLanguage": [
+                        {
+                            "language": 0,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.10000000149011612,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 2,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 15.770000457763672,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 2,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 2,
+                                    "specific": 5,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        },
+                        {
+                            "language": 1,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.10000000149011612,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 2,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 15.770000457763672,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 2,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 2,
+                                    "specific": 5,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        }
+                    ],
+                    "furblingEvents": [
+                        {
+                            "data": "WatchMovieOoh",
+                            "timing": 4.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "CelebrateLoop",
+                            "timing": 22.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "",
+                            "timing": 28.0,
+                            "type": "StopLoop"
+                        }
+                    ]
+                },
+                {
+                    "videoData": {
+                        "videoId": "LumberJack",
+                        "previewFile": "lumberjack.png",
+                        "previewFileSize": 172459,
+                        "videoFile": "lumberjack.mp4",
+                        "videoFileSize": 8800908,
+                        "group": 3,
+                        "learntGroup": 4
+                    },
+                    "furbyEvents": [],
+                    "furbyEventsByLanguage": [
+                        {
+                            "language": 0,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.0,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 2,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 6.619999885559082,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 15.050000190734864,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 20.790000915527345,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 5,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 6,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        },
+                        {
+                            "language": 1,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.0,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 2,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 6.619999885559082,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 15.050000190734864,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 20.790000915527345,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 5,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 6,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        }
+                    ],
+                    "furblingEvents": [
+                        {
+                            "data": "WatchMovieOoh",
+                            "timing": 4.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "CelebrateLoop",
+                            "timing": 22.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "",
+                            "timing": 28.0,
+                            "type": "StopLoop"
+                        }
+                    ]
+                },
+                {
+                    "videoData": {
+                        "videoId": "Down",
+                        "previewFile": "down.png",
+                        "previewFileSize": 125114,
+                        "videoFile": "down.mp4",
+                        "videoFileSize": 10856347,
+                        "group": 5,
+                        "learntGroup": 6
+                    },
+                    "furbyEvents": [],
+                    "furbyEventsByLanguage": [
+                        {
+                            "language": 0,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.5299999713897705,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 4,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 17.190000534057618,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 4,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 4,
+                                    "specific": 5,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        },
+                        {
+                            "language": 1,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.5299999713897705,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 4,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 17.190000534057618,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 4,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 4,
+                                    "specific": 5,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        }
+                    ],
+                    "furblingEvents": [
+                        {
+                            "data": "WatchMovieOoh",
+                            "timing": 4.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "CelebrateLoop",
+                            "timing": 22.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "",
+                            "timing": 28.0,
+                            "type": "StopLoop"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "obsession": {
+                "group": 13
+            },
+            "alert": {
+                "type": "Specific",
+                "input": 75,
+                "index": 0,
+                "subIndex": 3,
+                "specific": 1
+            },
+            "prerequisite": {
+                "minPlay": 0,
+                "probability": 1.0,
+                "requireFurby": false,
+                "requireNoFurby": false,
+                "timeFrame": {
+                    "begin": 1515110400,
+                    "end": 1517529600
+                }
+            },
+            "priority": 0,
+            "dlcToyFiles": [
+                {
+                    "language": 0,
+                    "fileName": "TU012770.dlc",
+                    "fileSize": 881906,
+                    "checksum": "0x03F68A08"
+                },
+                {
+                    "language": 1,
+                    "fileName": "TR012770.dlc",
+                    "fileSize": 924248,
+                    "checksum": "0x134408F2"
+                }
+            ],
+            "weeklyBundles": [
+                {
+                    "timestamp": 1515110400,
+                    "videoBundles": [
+                        {
+                            "videoId": "StillIntoYou"
+                        },
+                        {
+                            "videoId": "CorgiHop"
+                        },
+                        {
+                            "videoId": "CallMeMaybe"
+                        }
+                    ],
+                    "weeklyObsessionGroup": 11,
+                    "furbyAlerts": [
+                        {
+                            "language": 0,
+                            "type": "Specific",
+                            "input": 75,
+                            "index": 0,
+                            "subindex": 2,
+                            "specific": 1
+                        },
+                        {
+                            "language": 1,
+                            "type": "Specific",
+                            "input": 73,
+                            "index": 0,
+                            "subindex": 2,
+                            "specific": 1
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 1515715200,
+                    "videoBundles": [
+                        {
+                            "videoId": "CallMeMaybe"
+                        },
+                        {
+                            "videoId": "StillIntoYou"
+                        },
+                        {
+                            "videoId": "DogSteals"
+                        }
+                    ],
+                    "weeklyObsessionGroup": 12,
+                    "furbyAlerts": [
+                        {
+                            "language": 0,
+                            "type": "Specific",
+                            "input": 75,
+                            "index": 0,
+                            "subindex": 3,
+                            "specific": 1
+                        },
+                        {
+                            "language": 1,
+                            "type": "Specific",
+                            "input": 73,
+                            "index": 0,
+                            "subindex": 3,
+                            "specific": 1
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 1516320000,
+                    "videoBundles": [
+                        {
+                            "videoId": "DogSteals"
+                        },
+                        {
+                            "videoId": "CallMeMaybe"
+                        },
+                        {
+                            "videoId": "Riptide"
+                        }
+                    ],
+                    "weeklyObsessionGroup": 13,
+                    "furbyAlerts": [
+                        {
+                            "language": 0,
+                            "type": "Specific",
+                            "input": 75,
+                            "index": 0,
+                            "subindex": 4,
+                            "specific": 1
+                        },
+                        {
+                            "language": 1,
+                            "type": "Specific",
+                            "input": 73,
+                            "index": 0,
+                            "subindex": 4,
+                            "specific": 1
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 1516924800,
+                    "videoBundles": [],
+                    "weeklyObsessionGroup": 14,
+                    "furbyAlerts": []
+                }
+            ],
+            "videos": [
+                {
+                    "videoData": {
+                        "videoId": "CorgiHop",
+                        "previewFile": "corgihop.png",
+                        "previewFileSize": 132318,
+                        "videoFile": "corgihop.mp4",
+                        "videoFileSize": 10602445,
+                        "group": 7,
+                        "learntGroup": 8
+                    },
+                    "furbyEvents": [],
+                    "furbyEventsByLanguage": [
+                        {
+                            "language": 0,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.38999998569488528,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 2,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 3.0799999237060549,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 13.470000267028809,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 19.75,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 5,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 6,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        },
+                        {
+                            "language": 1,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.38999998569488528,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 2,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 3.0799999237060549,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 13.470000267028809,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 19.75,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 5,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 0,
+                                    "specific": 6,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        }
+                    ],
+                    "furblingEvents": [
+                        {
+                            "data": "WatchMovieOoh",
+                            "timing": 4.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "CelebrateLoop",
+                            "timing": 22.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "",
+                            "timing": 28.0,
+                            "type": "StopLoop"
+                        }
+                    ]
+                },
+                {
+                    "videoData": {
+                        "videoId": "StillIntoYou",
+                        "previewFile": "stillintoyou.png",
+                        "previewFileSize": 124685,
+                        "videoFile": "stillintoyou.mp4",
+                        "videoFileSize": 11387259,
+                        "group": 9,
+                        "learntGroup": 10
+                    },
+                    "furbyEvents": [],
+                    "furbyEventsByLanguage": [
+                        {
+                            "language": 0,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.5,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 1,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 14.739999771118164,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 1,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 1,
+                                    "specific": 5,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        },
+                        {
+                            "language": 1,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.5,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 1,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 14.739999771118164,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 1,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 1,
+                                    "specific": 5,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        }
+                    ],
+                    "furblingEvents": [
+                        {
+                            "data": "WatchMovieOoh",
+                            "timing": 4.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "CelebrateLoop",
+                            "timing": 22.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "",
+                            "timing": 28.0,
+                            "type": "StopLoop"
+                        }
+                    ]
+                },
+                {
+                    "videoData": {
+                        "videoId": "CallMeMaybe",
+                        "previewFile": "callmemaybe.png",
+                        "previewFileSize": 105946,
+                        "videoFile": "callmemaybe.mp4",
+                        "videoFileSize": 10679262,
+                        "group": 1,
+                        "learntGroup": 2
+                    },
+                    "furbyEvents": [],
+                    "furbyEventsByLanguage": [
+                        {
+                            "language": 0,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.7599999904632568,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 2,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 16.829999923706056,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 2,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 4,
+                                    "specific": 5,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        },
+                        {
+                            "language": 1,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.7599999904632568,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 2,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 16.829999923706056,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 2,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 2,
+                                    "specific": 5,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        }
+                    ],
+                    "furblingEvents": [
+                        {
+                            "data": "WatchMovieOoh",
+                            "timing": 4.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "CelebrateLoop",
+                            "timing": 22.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "",
+                            "timing": 28.0,
+                            "type": "StopLoop"
+                        }
+                    ]
+                },
+                {
+                    "videoData": {
+                        "videoId": "DogSteals",
+                        "previewFile": "dogsteals.png",
+                        "previewFileSize": 70179,
+                        "videoFile": "dogsteals.mp4",
+                        "videoFileSize": 9456961,
+                        "group": 3,
+                        "learntGroup": 4
+                    },
+                    "furbyEvents": [],
+                    "furbyEventsByLanguage": [
+                        {
+                            "language": 0,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.44999998807907107,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 2,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 7.630000114440918,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 16.709999084472658,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 21.059999465942384,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 5,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 4,
+                                    "specific": 5,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        },
+                        {
+                            "language": 1,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.44999998807907107,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 2,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 7.630000114440918,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 16.709999084472658,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 21.059999465942384,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 5,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 3,
+                                    "specific": 6,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        }
+                    ],
+                    "furblingEvents": [
+                        {
+                            "data": "WatchMovieOoh",
+                            "timing": 4.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "CelebrateLoop",
+                            "timing": 22.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "",
+                            "timing": 28.0,
+                            "type": "StopLoop"
+                        }
+                    ]
+                },
+                {
+                    "videoData": {
+                        "videoId": "Riptide",
+                        "previewFile": "riptide.png",
+                        "previewFileSize": 132494,
+                        "videoFile": "riptide.mp4",
+                        "videoFileSize": 8861544,
+                        "group": 5,
+                        "learntGroup": 6
+                    },
+                    "furbyEvents": [],
+                    "furbyEventsByLanguage": [
+                        {
+                            "language": 0,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.6399999856948853,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 4,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 19.110000610351564,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 4,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 75,
+                                    "index": 0,
+                                    "subIndex": 4,
+                                    "specific": 5,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        },
+                        {
+                            "language": 1,
+                            "furbyEvents": [
+                                {
+                                    "timing": 0.6399999856948853,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 4,
+                                    "specific": 3,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 19.110000610351564,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 4,
+                                    "specific": 4,
+                                    "waitForEnd": false
+                                },
+                                {
+                                    "timing": 99.9000015258789,
+                                    "eventType": "PhygitalSequence",
+                                    "data": "CancelPrevious",
+                                    "sequenceType": "Specific",
+                                    "input": 73,
+                                    "index": 0,
+                                    "subIndex": 4,
+                                    "specific": 5,
+                                    "waitForEnd": true
+                                }
+                            ]
+                        }
+                    ],
+                    "furblingEvents": [
+                        {
+                            "data": "WatchMovieOoh",
+                            "timing": 4.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "CelebrateLoop",
+                            "timing": 22.0,
+                            "type": "PlayAnimFromGroup"
+                        },
+                        {
+                            "data": "",
+                            "timing": 28.0,
+                            "type": "StopLoop"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "id": "dlc27"
+}
